@@ -28,7 +28,7 @@ O usuário informa o produto que está pensando em comprar e recebe uma análise
 -Análise de custo-benefício, considerando as necessidades do usuário.
 -Um indicador de decisão, como "Vale a pena", "Vale esperar" ou "Não vale a pena".
 
-- **Persona** - 
+### **Persona** 
 
 Camila, 28 anos — Analista de Marketing
 
@@ -92,17 +92,23 @@ Melhor preço encontrado: R$ 4.299,90
 
 As telas apresentadas abaixo foram desenvolvidas durante as aulas, utilizando o Figma para criação e prototipação da solução.
 
-Tela inicial
+### Tela principal
 
+![Tela principal]
+(tela-principal.png)
 
+### Tela de compra
 
-Tela de comparação/análise
+![Tela de Compra]
+(tela-de-compra)
 
+### Outras telas
 
+![Tela chat com IA]
+(tela-chat-com-ia.png)
 
-Outras telas
-
-
+![Tela de Recomendações]
+(tela-de-recomendacoes.png)
 
 **5. Figma**
 
