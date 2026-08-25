@@ -22,11 +22,11 @@ A solução proposta é um comparador inteligente de produtos, desenvolvido como
 O usuário informa o produto que está pensando em comprar e recebe uma análise rápida contendo:
 
 - Preço atual e histórico de preços.
--Avaliações de diferentes lojas reunidas em um só lugar.
--Benefícios e especificações do produto.
--Comparação com produtos similares.
--Análise de custo-benefício, considerando as necessidades do usuário.
--Um indicador de decisão, como "Vale a pena", "Vale esperar" ou "Não vale a pena".
+- Avaliações de diferentes lojas reunidas em um só lugar.
+- Benefícios e especificações do produto.
+- Comparação com produtos similares.
+- Análise de custo-benefício, considerando as necessidades do usuário.
+- Um indicador de decisão, como "Vale a pena", "Vale esperar" ou "Não vale a pena".
 
 ### **Persona** 
 
@@ -88,22 +88,21 @@ Ponto negativo:
 Preço médio: R$ 4.700
 Melhor preço encontrado: R$ 4.299,90
 
-## **4.Telas desenvolvidas**
+## **4. Telas desenvolvidas**
 
 As telas apresentadas abaixo foram desenvolvidas durante as aulas, utilizando o Figma para criação e prototipação da solução.
 
-### Tela principal
+Tela principal
+![Tela principal](./Tela%20principal.png)
 
-<img width="407" height="652" alt="Tela principal" src="https://github.com/user-attachments/assets/1ca02a4f-f2e6-4322-9f92-bc9f88f8781c" />
+Tela de compra
+![Tela de compra](./Tela%20de%20Compra.png)
 
-### Tela de compra
+Tela de recomendações
+![Tela de recomendações](./Tela%20de%20Recomendações.png)
 
-<img width="401" height="652" alt="Tela de Compra" src="https://github.com/user-attachments/assets/1556273d-35c7-4eac-b6e4-fe8af43ccf31" />
-
-### Outras telas
-
-<img width="392" height="640" alt="Tela de Recomendações" src="https://github.com/user-attachments/assets/23da46c7-6ebc-4514-93bc-9db59179a750" />
-<img width="402" height="637" alt="Tela chat com IA" src="https://github.com/user-attachments/assets/19e08e66-a687-48f1-909a-8fd47350f570" />
+Tela de chat com IA
+![Tela de chat com IA](./Tela%20chat%20com%20IA.png)
 
 ## **5. Figma**
 
