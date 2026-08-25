@@ -94,21 +94,16 @@ As telas apresentadas abaixo foram desenvolvidas durante as aulas, utilizando o 
 
 ### Tela principal
 
-![Tela principal]
-(tela-principal.png)
+<img width="407" height="652" alt="Tela principal" src="https://github.com/user-attachments/assets/1ca02a4f-f2e6-4322-9f92-bc9f88f8781c" />
 
 ### Tela de compra
 
-![Tela de Compra]
-(tela-de-compra)
+<img width="401" height="652" alt="Tela de Compra" src="https://github.com/user-attachments/assets/1556273d-35c7-4eac-b6e4-fe8af43ccf31" />
 
 ### Outras telas
 
-![Tela chat com IA]
-(tela-chat-com-ia.png)
-
-![Tela de Recomendações]
-(tela-de-recomendacoes.png)
+<img width="392" height="640" alt="Tela de Recomendações" src="https://github.com/user-attachments/assets/23da46c7-6ebc-4514-93bc-9db59179a750" />
+<img width="402" height="637" alt="Tela chat com IA" src="https://github.com/user-attachments/assets/19e08e66-a687-48f1-909a-8fd47350f570" />
 
 **5. Figma**
 
