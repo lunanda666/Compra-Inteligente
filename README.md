@@ -88,22 +88,25 @@ Ponto negativo:
 Preço médio: R$ 4.700
 Melhor preço encontrado: R$ 4.299,90
 
-## **4. Telas desenvolvidas**
+## 4. Telas desenvolvidas
 
 As telas apresentadas abaixo foram desenvolvidas durante as aulas, utilizando o Figma para criação e prototipação da solução.
 
-Tela principal
+### Tela principal
+
 ![Tela principal](./Tela%20principal.png)
 
-Tela de compra
+### Tela de compra
+
 ![Tela de compra](./Tela%20de%20Compra.png)
 
-Tela de recomendações
+### Tela de recomendações
+
 ![Tela de recomendações](./Tela%20de%20Recomendações.png)
 
-Tela de chat com IA
-![Tela de chat com IA](./Tela%20chat%20com%20IA.png)
+### Tela de chat com IA
 
+![Tela de chat com IA](./Tela%20chat%20com%20IA.png)
 ## **5. Figma**
 
 O projeto completo e o protótipo da solução podem ser acessados pelo link abaixo:
