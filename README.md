@@ -1,10 +1,10 @@
-# **1. Sobre o projeto**
+## **1. Sobre o projeto**
 
 O Compra Inteligente é uma solução digital desenvolvida para ajudar consumidores a tomar decisões de compra de forma mais rápida, segura e consciente.
 
 A proposta consiste em um comparador inteligente de produtos, com inteligência artificial integrada, que reúne informações importantes para ajudar o usuário a avaliar se determinado produto realmente vale o preço antes de realizar a compra.
 
-**2. Problema**
+## **2. Problema**
 
 Muitas pessoas têm dificuldade para decidir se um produto realmente vale o preço antes de comprá-lo.
 
@@ -15,7 +15,7 @@ Durante esse processo, o consumidor pode enfrentar diferentes dificuldades:
 - Dúvidas: alguns usuários não sabem qual marca ou loja escolher, enquanto outros ficam em dúvida entre comprar naquele momento ou esperar uma promoção.
 - Esforço extra: a escolha de componentes e especificações pode ser confusa, fazendo com que o consumidor precise realizar muitas pesquisas para evitar uma compra ruim.
 
-**3. Solução proposta**
+## **3. Solução proposta**
 
 A solução proposta é um comparador inteligente de produtos, desenvolvido como um aplicativo ou site com inteligência artificial integrada.
 
@@ -88,7 +88,7 @@ Ponto negativo:
 Preço médio: R$ 4.700
 Melhor preço encontrado: R$ 4.299,90
 
-**4.Telas desenvolvidas**
+## **4.Telas desenvolvidas**
 
 As telas apresentadas abaixo foram desenvolvidas durante as aulas, utilizando o Figma para criação e prototipação da solução.
 
@@ -105,7 +105,7 @@ As telas apresentadas abaixo foram desenvolvidas durante as aulas, utilizando o 
 <img width="392" height="640" alt="Tela de Recomendações" src="https://github.com/user-attachments/assets/23da46c7-6ebc-4514-93bc-9db59179a750" />
 <img width="402" height="637" alt="Tela chat com IA" src="https://github.com/user-attachments/assets/19e08e66-a687-48f1-909a-8fd47350f570" />
 
-**5. Figma**
+## **5. Figma**
 
 O projeto completo e o protótipo da solução podem ser acessados pelo link abaixo:
 
