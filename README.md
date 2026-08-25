@@ -1,4 +1,4 @@
-**1. Sobre o projeto**
+# **1. Sobre o projeto**
 
 O Compra Inteligente é uma solução digital desenvolvida para ajudar consumidores a tomar decisões de compra de forma mais rápida, segura e consciente.
 
